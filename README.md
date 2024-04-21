@@ -12,4 +12,9 @@
  <img src="https://github.com/ggPonchik/Tinkoff-CTF-2024/blob/main/p3.png?raw=true" alt="qr"/>
 </p>
 
-Далеe
+Далее поищем кве для сервиса и находим это:
+https://github.com/jhonnybonny/CVE-2024-23334
+
+<p align="center">
+ <img src="https://github.com/ggPonchik/Tinkoff-CTF-2024/blob/main/p4.png?raw=true" alt="qr"/>
+</p>
