@@ -66,6 +66,7 @@ elison:x:2300:2300:,,,:/home/elison:/bin/bash
 Оказалось, он зашифрован и его нужно расшифровать
 https://github.com/chris408/known_hosts-hashcat
 И того после всех манипуляций получил
+
 ```
 f4ebb37e08c970f4ba4ae4214ab4ee221c465375:07987c3edb4058ef07080566ba7ba2a71b269f9c:38.54.117.194
 ```
