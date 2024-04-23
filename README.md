@@ -33,9 +33,6 @@ elison:x:2300:2300:,,,:/home/elison:/bin/bash
 <p align="center">
  <img src="https://github.com/ggPonchik/Tinkoff-CTF-2024/blob/main/p6.png?raw=true" alt="qr"/>
 </p
- 
-Соответственно
-Путем довольно долгого перебора было найдено:
 <p align="center">
  <img src="https://github.com/ggPonchik/Tinkoff-CTF-2024/blob/main/p7.png?raw=true" alt="qr"/>
 </p
